@@ -1,6 +1,6 @@
-﻿using Tyuiu.TaranIV.Sprint0.Task4.V0.Lib;
+﻿using Tyuiu.TaranIV.Sprint0.Task5.V0.Lib;
 
-namespace Tyuiu.TaranIV.Sprint0.Task4.V0.Test
+namespace Tyuiu.TaranIV.Sprint0.Task5.V0.Test
 {
     [TestClass]
     public sealed class DataServiceTest
